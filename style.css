@@ -1,0 +1,78 @@
+body {
+    background-color: #E67E22;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.hero {
+  color: white;
+  margin: 20px;
+  border-bottom: 1px solid white;
+  text-align: center;
+}
+
+.name {
+  font-size: 3rem;
+  margin: 20px;
+  padding: 30px 20px 10px 20px ;
+}
+
+.intro {
+  font-size: 1.5rem;
+  margin: 20px 20px 10px 20px; 
+}
+
+.bouttons {
+  margin: 10px; /* <-- inutile mais comprends pas pk à revoir plus tard */
+  margin-bottom:15px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.btn {
+  color: #E67E22;
+  text-decoration: none;
+  font-weight: bold;
+  background-color: white;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.objectifs {
+  margin:20px;
+  color: white;
+}
+
+.obj {
+  margin: 10px 20px 20px 20px;
+}
+
+.obj h3 {
+  margin: 10px;
+}
+
+.fait {
+  text-decoration: line-through;
+}
+
+footer {
+  margin:20px;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  align-content: center;
+  border-top: solid 1px white;
+}
+
+.carte {
+  width:800px;
+  margin:20px auto;
+  border: 5px solid black;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: white;
+  text-align: center;
+  align-content: center;
+}
